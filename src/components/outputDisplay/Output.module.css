@@ -1,0 +1,10 @@
+.bgDark{
+    background-color: #343434 !important;
+    color: white !important;
+}
+
+.copyIcon{
+    top: 50px;
+    right: 7px;
+    font-size: 1.4rem;
+}
